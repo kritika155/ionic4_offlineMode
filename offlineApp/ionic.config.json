@@ -1,0 +1,7 @@
+{
+  "name": "offlineApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
